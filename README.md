@@ -13,11 +13,12 @@ The repository is organized as follows:
 ```plaintext
 📂 30-Days-of-Python/
 ├── 📁 Day_1
-│   ├── exercises.py
+│   ├── exercises_1.md
+│   ├── exercises_2.py
+│   ├── exercises_3.py
 │   └── notes.md (optional)
 ├── 📁 Day_2
-│   ├── exercises_1.py
-│   ├── exercises_2.py
+│   ├── exercises.py
 │   └── notes.md (optional)
 ├── ...
 └── 📁 Day_30
