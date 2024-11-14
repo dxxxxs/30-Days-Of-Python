@@ -81,7 +81,7 @@ cd 30-Days-of-Python/Day_1
 
 3. Run the code:
 ```bash
-python exercises_1.py
+python exercises_2.py
 ```
 
 ## 📌 Goals
