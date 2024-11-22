@@ -44,7 +44,7 @@ The repository is organized as follows:
 | 08    | Dictionaries                  | ✅      |
 | 09    | Conditionals                  | ✅      |
 | 10    | Loops                         | ✅      |
-| 11    | Functions                     | ❌      |
+| 11    | Functions                     | ✅      |
 | 12    | Modules                       | ❌      |
 | 13    | List Comprehension            | ❌      |
 | 14    | Higher Order Functions        | ❌      |
