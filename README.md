@@ -46,7 +46,7 @@ The repository is organized as follows:
 | 10    | Loops                         | ✅      |
 | 11    | Functions                     | ✅      |
 | 12    | Modules                       | ✅      |
-| 13    | List Comprehension            | ❌      |
+| 13    | List Comprehension            | ✅      |
 | 14    | Higher Order Functions        | ❌      |
 | 15    | Python Type Errors            | ❌      |
 | 16    | Python Date time              | ❌      |
